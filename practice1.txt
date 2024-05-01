@@ -1,4 +1,0 @@
-mainframe video
-JCL 
-COBOL
-DB2
