@@ -2,4 +2,3 @@ Mainframe Skills
 JCL
 VSAM
 COBOL
-DB2
